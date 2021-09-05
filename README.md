@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juma
-- 👀 I’m interested in Full Stack
+- 👀 I’m interested in FullStack
 - 🌱 I’m currently learning C, Python, & SQL
 
 
